@@ -1,6 +1,6 @@
 # Path Language to Topic Maps Mapping Syntax
 
-The Path Language to Topic Maps Mapping Syntax (PLTTM) defines a language to map 
+The "Path Language to Topic Maps Mapping Syntax (PLTTM)" defines a language to map 
 serialized domain specific subject representations to Topic Maps equivalents. 
 Therefore, PLTTM enables (semantic) data federation.
 
