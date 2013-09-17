@@ -6,11 +6,7 @@ Therefore, PLTTM enables (semantic) data federation.
 
 PLTTM uses path language statements e.g. in XPath  or JSONPath to address subject 
 representations in e.g. XML or JSON serializations. The path language statements are 
-furthermore used to extract the relevant portions of data.
-
-PLTTM is inspired by the "Compact RDF to Topic Maps Mapping Syntax (CRTM)" and 
-borrows the majority of syntactical constructs from it. Consequently, PLTTM is regarded 
-as a side project of CRTM.
+furthermore used to extract the relevant portions of data. [...]
 
 Read the full draft here: 
 https://docs.google.com/document/d/10JwfXfkLUjDs1Q5xiIUBM_TJ5O1VAPnyPSsRwAAzN5g/edit
