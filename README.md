@@ -8,7 +8,7 @@ PLTTM uses path language statements e.g. in XPath  or JSONPath to address subjec
 representations in e.g. XML or JSON serializations. The path language statements are 
 furthermore used to extract the relevant portions of data.
 
-PLTTM is inspired by "The Compact RDF to Topic Maps Mapping Syntax (CRTM)" and 
+PLTTM is inspired by the "Compact RDF to Topic Maps Mapping Syntax (CRTM)" and 
 borrows the majority of syntactical constructs from it. Consequently, PLTTM is regarded 
 as a side project of CRTM.
 
